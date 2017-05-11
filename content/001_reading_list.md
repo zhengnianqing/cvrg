@@ -18,8 +18,7 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 9. [[read]()] Generative Adversarial Networks [paper](https://arxiv.org/abs/1406.2661)
 10. Attend Refine Repeat: Active Box Proposal Generation via In-Out Localization [paper](https://arxiv.org/abs/1606.04446) [caffe](https://github.com/gidariss/AttractioNet)
 11. Spatial Memory for Context Reasoning in Object Detection [paper](https://arxiv.org/pdf/1704.04224.pdf)
-
-
+12.Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition [paper](https://arxiv.org/pdf/1406.4729.pdf)
 ## Semantic Image Segmentation
 1. Semantic Image Sementation with Deep Convolutional Nets and Fully Connected CRF [paper](https://arxiv.org/pdf/1412.7062.pdf)
 2. Fully Convolutional Networks for Semantic Segmentation [paper](https://people.eecs.berkeley.edu/%7Ejonlong/long_shelhamer_fcn.pdf) [caffe](https://github.com/shelhamer/fcn.berkeleyvision.org)
