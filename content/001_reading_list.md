@@ -20,6 +20,7 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 11. Accurate Single Stage Detector Using Recurrent Rolling Convolution [paper](https://arxiv.org/pdf/1704.05776.pdf)
 12. ME R-CNN: Multi-Expert Region-based CNN for Object Detection [paper](https://arxiv.org/pdf/1704.01069.pdf)
 13. [[read](http://hustcv.github.io)] Beyond Skip Connections: Top-Down Modulation for Object Detection [paper](https://arxiv.org/pdf/1612.06851.pdf)
+14. Object Detection via Aspect Ratio and Context Aware Region-based Convolutional Networks [paper]   (https://arxiv.org/pdf/1612.00534.pdf)
 
 ## Text detection
 1. Detecting Text in Natural Image with Connectionist Text Proposal Network [paper](https://arxiv.org/pdf/1609.03605.pdf)
